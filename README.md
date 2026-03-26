@@ -159,9 +159,8 @@ Recommendation system
 
 ## 📈 Most Used Languages
 
-<!-- FIX: Added cache_seconds to bypass caching issues, and count_private=true for more accurate results -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDhawan07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDhawan07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8&hide=jupyter%20notebook" />
 </p>
 
 ---
@@ -181,13 +180,12 @@ Recommendation system
 
 ## 📊 Live Project Cards
 
-<!-- FIX: Verify these repo names exactly match your GitHub repository names (case-sensitive) -->
 <p align="center">
-  <a href="https://github.com/AbhishekDhawan07/DrowsyDetect-Medi_AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=DrowsyDetect-Medi_AI&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/AbhishekDhawan07/DrowsyDetect-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=DrowsyDetect-AI&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/AbhishekDhawan07/Medi_Bot_AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=Medi_Bot_AI&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/AbhishekDhawan07/Medi_AI_Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=Medi_AI_Bot&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
