@@ -160,7 +160,7 @@ Recommendation system
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDhawan07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8&hide=jupyter%20notebook" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhishekDhawan07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
