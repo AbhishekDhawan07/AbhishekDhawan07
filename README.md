@@ -160,8 +160,13 @@ Recommendation system
 ## 📊 Live Project Cards
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=DrowsyDetect-Medi_AI&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=Medi_Bot_AI&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=DrowsyDetect-AI" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=Medi_Bot_AI" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=ObjectVision" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=Emotion_Detect_AI" />
 </p>
 
 ---
