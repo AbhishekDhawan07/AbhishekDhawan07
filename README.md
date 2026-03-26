@@ -144,9 +144,8 @@ Recommendation system
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDhawan07&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDhawan07&layout=compact" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
