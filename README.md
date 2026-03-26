@@ -182,10 +182,10 @@ Recommendation system
 
 <p align="center">
   <a href="https://github.com/AbhishekDhawan07/DrowsyDetect-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=DrowsyDetect-AI&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AbhishekDhawan07&repo=DrowsyDetect-AI&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/AbhishekDhawan07/Medi_AI_Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=Medi_AI_Bot&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AbhishekDhawan07&repo=Medi_AI_Bot&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
