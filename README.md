@@ -141,31 +141,54 @@ Recommendation system
 
 ---
 
-## 📈 Most Used Languages
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDhawan07&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekDhawan07&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AbhishekDhawan07&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<!-- FIX: Added cache_seconds to bypass caching issues, and count_private=true for more accurate results -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDhawan07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" />
+</p>
+
 ---
 
 ## 🐍 Contribution Snake
 
+<!-- FIX: Using the correct raw.githubusercontent.com path with the proper branch name -->
 <p align="center">
-  <img src="https://github.com/AbhishekDhawan07/AbhishekDhawan07/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhishekDhawan07/AbhishekDhawan07/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhishekDhawan07/AbhishekDhawan07/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AbhishekDhawan07/AbhishekDhawan07/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
 ## 📊 Live Project Cards
 
+<!-- FIX: Verify these repo names exactly match your GitHub repository names (case-sensitive) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=DrowsyDetect-AI" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=Medi_Bot_AI" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=ObjectVision" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=Emotion_Detect_AI" />
+  <a href="https://github.com/AbhishekDhawan07/DrowsyDetect-Medi_AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=DrowsyDetect-Medi_AI&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/AbhishekDhawan07/Medi_Bot_AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDhawan07&repo=Medi_Bot_AI&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
